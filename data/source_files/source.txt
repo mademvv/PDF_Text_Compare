@@ -1,0 +1,32 @@
+Role:
+?    Analyzed the Business Requirements Document, created the test plan and prepared detailed
+test cases for new Functionality.
+?    Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the customer
+requirements and acceptable quality assurance standards
+?    Participated in the meetings, prepared reports and other supportive documentation to
+contribute to establishment of standards and procedures for software testing
+?    Developed Manual test scripts for different test scenarios covering all aspects of project
+functionality using Test Link, and MANTIS Defect Management
+?    Created and executed manual test cases using Test Link and reviewed test cases developed by
+other testers
+?    Involved in preparation of Automation Sanity Test Cases.
+?    Performed Root Cause Analysis for all the assigned issues for existing functionality such as
+(Corrupted Data, Code Error)
+?    Executed the test cases, recorded the results and documented defects, questionable functions,
+as well as inconsistencies in software program functions, outputs, online screens and content.
+?    In the regression phase, the project was automated using Cucumber with Selenium flavour
+using JAVA. I was responsible for developing a dynamic framework which could automate
+all the test cases.
+?    Developed Cucumber Framework with seetest tool with Test NG Frame work was
+developed and generic keywords were implemented.
+?    Generating Test Results using Cucumber reports by jenkins.
+?    Executing Test Cases by using Jenkins.
+?    Created and updated test scenarios, test plans, and test cases according to use case and design
+?    Participated in system walkthrough and inspection meetings to understand the business rules
+and system operation flows
+?    Executed test cases using  automated test tools
+?    Created test plan, designed and executed test cases manually and verified actual results
+against expected results
+?    Identified and tracked defects, generated bug reports and submitted test report.
+?    Worked closely with users and program developers to ensure application development meets
+with the user expectations
