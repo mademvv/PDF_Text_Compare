@@ -12,6 +12,6 @@ public class start_up {
 		ReadPDF.read_pdf(System.getProperty("user.dir")+"\\data\\destination_files\\Destination.pdf" , System.getProperty("user.dir")+"\\data\\destination_files\\destination.txt" );
 		trail.verify(System.getProperty("user.dir")+"\\data\\source_files\\source.txt", System.getProperty("user.dir")+"\\data\\destination_files\\destination.txt");
 	
-	System.out.println("hi");
+	System.out.println("hi1234");
 	}
 }
