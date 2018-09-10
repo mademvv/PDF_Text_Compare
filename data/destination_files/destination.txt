@@ -1,0 +1,1043 @@
+M.VV Janardhan                                                                           Email: mademvv@gmail.com 
+Mobile: +91 – 8179653520 
+8.2+ years of total IT experience out of which around 6 months experience in ERP, 1.6months in 
+Aero Defense Domain, 2.9 year in Android/IOS/BlackBerry/windows) Mobile Applications in 
+Telecom BSS (CRM, Billing, Product catalogue), OSS (Service Assurance, Activations) 
+(VAS).1 year of experience is in Customer Management Relationship, 1 year of experience is in 
+Tourism and Logistics domain which includes preparation of test scenarios, test cases and 
+manual testing and automation testing. I worked in Linux, Windows NT, 98, XP, 2000 platforms, 
+windows 2003 server. Apart from technical expertise, also possesses strong analytical and 
+communication skills and testing fundamentals, testing tools like Test Complete, QTP 
+Selenium (IDE/WEB Driver/Grid), Mantis, Test Link & Quality Centre. 
+ 
+? willingness to accept responsibilities. 
+ 
+TECHNICAL SKILLS & KNOWLEDGE: 
+Tools Experience Level 
+Automation Testing ,Management Tools& 
+Defect Tracking Tools 
+Test Complete, QTP 9.0,Selenium[IDE/WEB 
+Driver/Grid] Using Java ,Test Link, Mantis, 
+Bugzilla 
+Continuous Integration Tool Git Hub 
+Version Control Tool SVN 
+Web Services Tools SOAP UI 
+Office Tools: Outlook, Word, Excel, PowerPoint 
+Languages: HTML,  Core Java, VB Script++ 
+Databases: MySQL, Sql server 2008 R2 
+Platform: Windows XP/2000, Unix/ Linux 
+ 
+Professional Experience: 
+? Presently working as a QA Lead in Next Education India Pvt Ltd   since 18th Oct 2016 
+to till date 
+? Worked as a Senior Software Engineer in InfoTech(Cyient) Ltd  since 18th September 
+2014 to 10th September 2016 
+? Worked as a QA Lead Test Engineer for Apalya Technologies Pvt Ltd. Hyderabad 
+since Oct 10 2012 to 17 September 2014. 
+? Worked as a Software Test Engineer for Cenova Soft Solutions PvtLtd, Bangalore 
+since August 2009 to Oct 5 2012. 
+ 
+ 
+Educational Qualification: 
+? B. Tech (ECE) from Bapatla Engineering College, ANU University in the Year of 
+2009. 
+? M.B.A Marketing Distance Learning from Pondicherry University in the year of 
+2011 
+ 
+ 
+Project Profile: 
+ 
+Project:#1 
+Product                                            :    School ERP  
+Platform                                          :   Java 
+Duration                                          :    Oct 15 to till date 
+Role                                                  :   QA Lead. 
+Project Name                                   :    Next Learning Platform 
+Automation Tool                             :    Cucumber with selenium flavour 
+Language                                          :   Java 
+Description:    
+                     NLP(Next Learning Platform) is a Web application developed in Java platform. It 
+complete solution to school Management system.It contains various modules like 
+student,staff,communications,fee,examination,school setup,Attendance.Reports. 
+Role: 
+? Analyzed the Business Requirements Document, created the test plan and prepared detailed 
+test cases for new Functionality. 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the customer 
+requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation to 
+contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of project 
+functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases developed by 
+other testers 
+? Involved in preparation of Automation Sanity Test Cases. 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality such as 
+(Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable functions, 
+as well as inconsistencies in software program functions, outputs, online screens and content. 
+? In the regression phase, the project was automated using Cucumber with Selenium flavour 
+using JAVA. I was responsible for developing a dynamic framework which could automate 
+all the test cases. 
+? Developed Cucumber Framework with seetest tool with Test NG Frame work was 
+developed and generic keywords were implemented. 
+? Generating Test Results using Cucumber reports by jenkins. 
+? Executing Test Cases by using Jenkins. 
+? Created and updated test scenarios, test plans, and test cases according to use case and design 
+? Participated in system walkthrough and inspection meetings to understand the business rules 
+and system operation flows 
+? Executed test cases using  automated test tools 
+? Created test plan, designed and executed test cases manually and verified actual results against 
+expected results 
+? Identified and tracked defects, generated bug reports and submitted test report. 
+? Worked closely with users and program developers to ensure application development meets 
+with the user expectations 
+ 
+Project#2 
+Clients                                             :    American Science & Engineering 
+Platform                                          :  .Net 
+Duration                                          :    Oct 1st 2014 to September 2016 
+Role                                                  :   Senior Software Engineer 
+Project Name                                   :    ASE Viewer Automation Testing 
+Automation Tool                             :    Test Complete 
+Language                                          :    VB Scripting 
+Description:    
+                     ASE Viewer is a Desktop application developed in .net platform. ASE Viewer is a 
+Threat detecting system. This Viewer contains Number of Inspections. Each Inspection contains 
+x-rays and peripheral images which are scanned from different Scanned Machines like ZPortal, 
+Sentry and OMVII from different Security Scanning stations. User can apply Image operations 
+like Contrast, Color Palette, Auto Enhance, Histogram, Brightness, Invert colors, Zoom. By 
+Applying this image operations user can predict the different   objects in the x-ray images. 
+Role: 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Developing Scripts in VB Script 
+? Generating reports for Test Suite 
+? Reviewing scripts 
+? Creating Test Plan 
+? Worked closely with users and program developers to ensure application development 
+meets with the user expectations 
+?Performed Root Cause Analysis for all the assigned issues for existing functionality such 
+as (Corrupted Data, Code Error) 
+?Developed Hybrid Frame work with Test Complete Tool 
+?Worked with TFS for Management of Test Cases. 
+?Participated in system walkthrough and inspection meetings to understand the business 
+rules and system operation flows 
+?Executed test cases using  automated test tool “Test Complete” 
+?Wrote SQL Query to extract data from various database tables for testing purpose 
+?Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+ 
+Project#3 
+Client                                              :    Samsung 
+Platform                                         :   Samsung Tab S 10.4’ & 8.4’ 
+Duration                                         :    July 2014 – Present 
+Role                                                 :   QATest Lead 
+Project Name                                 :    Providing HD Movies in Myplex 
+Mobile Automation Tool                    :      SeeTest tool 
+Description: 
+                                   In Samsung Tab models[SM-7805, SM-8607] we provided free HD 
+MOVIES in Myplex Android App. We developed Hybrid frame work for Executing Sanity Test 
+Cases with SeeTest Tool. Myplex application is an entertainment application in which it 
+contains Hollywood movies, Live TV channels, TV shows like Friends. This App have various 
+features like Down and play and Download to Own, Cross streaming functionality between 
+portal app to android app, Coupons, Share feature, search, favorites etc. User can play movie or 
+live TV or TV shows in Wi-Fi or 3G or 2G Network. User can able to subscribe live TV or 
+movies or TV shows through rental and Buy mode. In Samsung play store it is available with 
+name “Myplex”. This app is mainly for Android Version >4.0. 
+Role: 
+? Analyzed the Business Requirements Document, created the test plan and prepared detailed 
+test cases for new Functionality. 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the customer 
+requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation to 
+contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of project 
+functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases developed by 
+other testers 
+? Involved in preparation of Automation Sanity Test Cases. 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality such as 
+(Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable functions, 
+as well as inconsistencies in software program functions, outputs, online screens and content. 
+? In the regression phase, the project was automated using SeeTest tool with JAVA. I was 
+responsible for developing a dynamic framework which could automate all the test cases. 
+? Developed Hybrid framework with seetest tool with Test NG Frame work was developed 
+and generic keywords were implemented. 
+? Generating Test Results Reports using TestNG and ANT. 
+? Used ANT to build and run the Seetest automation framework. Once the script got over, 
+framework used to send the automation reports over email 
+? Executing Test Cases by using Bat file using ANT. 
+? Created and updated test scenarios, test plans, and test cases according to use case and design 
+? Participated in system walkthrough and inspection meetings to understand the business rules 
+and system operation flows 
+? Executed test cases using  automated test tools 
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using Bugzilla to ensure applications functionality 
+? Created test plan, designed and executed test cases manually and verified actual results against 
+expected results 
+? Identified and tracked defects, generated bug reports and submitted test report. 
+? Worked closely with users and program developers to ensure application development meets 
+with the user expectations 
+ 
+Project#4 
+Client                                    :    Bakri 
+Client Location                    :    Indonesia 
+Platform                               :   Android Version >4.0 
+Duration                               :    April2014 – July 2014 
+Role                                       :   QATest Lead 
+Project Name                       :    Vivall 
+Project Details:  
+                          Vivall Android application is an entertainment application in which it contains 
+Fifa World Cup 2014 Live Matches, Match Highlights and Livetv. This App have various 
+features like Login with viva account/Facebook/Google, Selecting various camera angles and 
+selecting language and feed quality option in player for live match, Set favorite, Share to friends, 
+Invite friends, Purchase packs for viewing live matches, Cross streaming functionality between 
+android device to android device, Analytics, Coupons. User can play live football match or 
+Highlights or live TV in Wi-Fi or 3G or 2G Networks. User can able to subscribe to particular 
+match through various modes of payment gateways like credit, debit, net banking, coupons, and 
+wallet. In Google play store it is available with name “Vivall” it is visible to Indonesia users 
+only. This app is mainly for Android Version >4.0. 
+ 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating android based applications and Documentation 
+based on standards for Software Development and effective QA implementation in 
+all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and Bugzilla Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality 
+such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using manual processes  
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations. 
+ 
+Project#5 
+Client                                    :    Myplex 
+Platform                               :   Android Version >4.0 
+Duration                               :    Feb 2014 – March 2014 
+Role                                       :   QATest Lead 
+Project Details: 
+                          Myplex Android application is an entertainment application in which it contains 
+Hollywood movies, Live TV channels, TV shows like Friends. This App have various features 
+like Down and play and Download to Own, Cross streaming functionality between portal app to 
+android app, Coupons, Share feature, search, favorites etc. User can play movie or livetv or TV 
+shows in Wi-Fi or 3G or 2G Network. User can able to subscribe livetv or movies or TV shows 
+through rental and Buy mode. In Google play store it is available with name “Myplex”. This app 
+is mainly for Android Version >4.0. 
+ 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating android based applications and Documentation 
+based on standards for Software Development and effective QA implementation in 
+all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and Bugzilla Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality 
+such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using manual processes  
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations. 
+ 
+Project#6 
+Client                                    :    Myplex 
+Platform                               :   IOS 
+Duration                               :    Feb 2014 – Present 
+Role                                       :   QATest Lead 
+Project Details: 
+                          Myplex IOS application is an entertainment application in which it contains 
+Hollywood movies, Live TV channels, TV shows like Friends. This App have various features 
+like Down and play and Download to Own, Cross streaming functionality between portal app to 
+android app, Coupons, Share feature, search, favorites etc. User can play movie or livetv or TV 
+shows in Wi-Fi or 3G or 2G Network. User can able to subscribe livetv or movies or TV shows 
+through rental and Buy mode from iTunes. Myplex App is available in apple iTunes store with 
+name “Myplex”. This app is mainly for IPhone 4, IPhone 5, IPhone 4s, and IPhone 5s. 
+ 
+Role Description: 
+?Experienced in defining Testing Methodologies, Designing Test Plans and Test Cases, 
+Verifying and Validating android based applications and Documentation based on 
+standards for Software Development and effective QA implementation in all phases of 
+Software Development Life Cycle (SDLC) 
+?Analyzed the Business Requirements Document, created the test plan and prepared detailed 
+test cases for new Functionality 
+?Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the customer 
+requirements and acceptable quality assurance standards 
+?Participated in the meetings, prepared reports and other supportive documentation to 
+contribute to establishment of standards and procedures for software testing 
+?Developed Manual test scripts for different test scenarios covering all aspects of project 
+functionality using Test Link, and Bugzilla Defect Management 
+?Created and executed manual test cases using Test Link and reviewed test cases developed 
+by other testers 
+?Involved in performing GUI, Functional, System and Regression Testing 
+?Performed Root Cause Analysis for all the assigned issues for existing functionality such as 
+(Corrupted Data, Code Error)  
+?Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+?Created and updated test scenarios, test plans, and test cases according to use case and 
+design 
+?Participated in system walkthrough and inspection meetings to understand the business 
+rules and system operation flows 
+?Executed test cases using manual processes  
+?Wrote SQL Query to extract data from various database tables for testing purpose 
+?Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+?Identified and documented defects using MANTIS to ensure applications functionality 
+?Created test plan, designed and executed test cases manually and verified actual results 
+against expected results 
+?Identified and tracked defects, generated bug reports and submitted test report 
+?Assisted client implement User Acceptance Test (UAT) including creating Test Plan, 
+generating test data, designing test cases, preparing test environment and executing test 
+?Worked closely with users and program developers to ensure application development 
+meets with the user expectations. 
+ 
+Project#7 
+Client                                    :    Myplex 
+Platform                               :   Web Application 
+Duration                               :    OCT2013 – JAN 2014 
+Role                                       :   QATest Lead 
+Project Details:  
+Myplex is a web portal which implements with HTML 5.It provides latest movies, Live TV and 
+Videos. User can watch the free content. Customer can watch the paid content through 
+subscriptions. We are providing credit card and debit card payment options to user for 
+subscriptions. This portal contains all the latest Hollywood movies with HD & SD Quality. I 
+worked with BSS & OSS Systems. Web Portal Address: http://portal.myplex.in/ 
+ 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing 
+functionality such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? In the regression phase, the project was automated using Selenium with JAVA. I 
+was responsible for developing a dynamic framework which could automate all the 
+test cases. 
+? Hybrid framework with Selenium was developed and generic keywords were 
+implemented. 
+? Generating Test Results Reports using TestNG and ANT. 
+? Used ANT to build and run the Selenium automation framework. Once the script 
+got over, framework used to send the automation reports over email 
+? Executing Test Cases by using Selenium Grid. 
+? Certain portion of the project involved Flex designs. Flex application testing was 
+also carried out using Selenium. 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using both manual processes and automated test tools 
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations 
+ 
+Project#8 
+Project Title: Airtel PCTV 
+Client                                    :     Airtel 
+Platform                               :   Web Application 
+Duration                               :    Aug 2012–OCT2013 
+Role                                       :  QA Test Lead 
+ 
+Project Details: Airtel PCTV is a web based application. Users can watch live 
+channels/Videos/Movies Through www.airtelpctv.in. User can subscribe to packs through 4 
+ways i.e. through Airtel broad band/Prepaid/post-paid/dongle. I worked in BSS (CRM, Billing, 
+Product catalogue) and in OSS (Service Assurance, Activations). User can watch the contents of 
+the Airtel PCTV by subscribing Daily/Weekly/Monthly Packages through any network.  
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality 
+such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? In the regression phase, the project was automated using Selenium with JAVA. I 
+was responsible for developing a dynamic framework which could automate all the 
+test cases. 
+? Hybrid framework with Selenium was developed and generic keywords were 
+implemented. 
+? Generating Test Results Reports using TestNG and ANT. 
+? Executing Test Cases by using Selenium Grid. 
+? Used ANT to build and run the Selenium automation framework. Once the script 
+got over, framework used to send the automation reports over email 
+? Certain portion of the project involved Flex designs. Flex application testing was 
+also carried out using Selenium. 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using both manual processes and automated test tools 
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with  
+? the user expectations 
+ 
+Project#9 
+Project Title: Airtel Windows App 
+Client                                    :     Airtel 
+Platform                               :   Windows Application 
+Client Version                      :    1.00 
+Duration                               :    Jul 2013 - Aug 2013 
+Role                                       :  QA Test Lead 
+ 
+Project Details:  
+Airtel Windows is app which supports windows Devices. This app will give entertainment to 
+users by providing live channels, Videos, Movies Streaming to users. User can download app 
+from Windows App Store. User can download app through Sending SMS TV TO 54321.Our app 
+supports both sim Network and Wi-Fi. I worked in BSS (CRM, Billing, Product catalogue) and 
+in OSS (Service Assurance, Activations). 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases,   Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and 
+prepared detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality 
+such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using both manual processes and automated test tools 
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL 
+Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations. 
+ 
+Project#10 
+Project Title: Airtel BB10 App 
+Client                                    :     Airtel 
+Platform                               :   BlackBerry10 Application 
+Duration                               :    Jul 2013 - Aug 2013 
+Role                                       :  QA Test Lead 
+Project Details:  
+BB10 is app which supports Z10, Q10, and Q5Devices. This app will give entertainment to users 
+by providing live channels, Videos, Movies Streaming to users. User can download app from 
+BlackBerry Store. User can download app through Sending SMS TV TO 54321.Our app 
+supports both sim Network and Wi-Fi. 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing. 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality 
+such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using both manual processes and automated test tools 
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations. 
+ 
+Project#11 
+Project Title: AirtelTV 
+Client                                    :     Airtel TV Android App 
+Platform                               :   Android 
+Duration                               :    May 15th 2013 – Jul 2013 
+Role                                       :  QA Test Lead 
+Project Details:  
+We Tested Airtel Mobile TV Revamp application for Airtel Operator. It is a mobile application 
+in which it provides entertainment to the Android mobile users by providing live channels, 
+VODs, Special Events, Movies. I worked in BSS(CRM, Billing, Product catalogue) and  in 
+OSS(Service Assurance, Activations). In this version we introduced New UI, More Info, 
+Subscription Indicator, Carousal area, Epg, Free Indicator along with previous features. User can 
+watch the contents of the Airtel Mobile TV by subscribing Daily/Weekly/Monthly Packages 
+through any network. Airtel Users can download App by sending TV TO 54321. 
+ 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality 
+such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using both manual processes and automated test tools 
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations 
+ 
+Project#12 
+Project Title: AirtelTV 
+Client                                    :     Airtel TV 
+Platform                               :    Android, Symbian, BlackBerry Apps 
+Duration                               :    April 2nd 2013 – May 12th 2013 
+Role                                       :   Senior Test Engineer 
+Project Details:  
+We Tested Airtel Mobile TV Revamp application for Airtel Operator. It is a mobile application 
+in which it provides entertainment to the Android/Symbian/BlackBerry mobile users by 
+providing Live channels, VODs, Special Events, Movies worked in BSS (CRM, Billing, 
+Product catalogue) and in OSS (Service Assurance, Activations).In this version we 
+introduced New UI,MoreInfo,and Subscription Indicator along with previous features. User can 
+watch the contents of the Airtel Mobile TV by subscribing Daily/Weekly/Monthly Packages 
+through any network. Airtel Users can download App by sending TV TO 54321 
+ 
+Role Description: 
+?Experienced in defining Testing Methodologies, Designing Test Plans and Test Cases, 
+Verifying and Validating pharmaceutical Web based applications and Documentation 
+based on standards for Software Development and effective QA implementation in all 
+phases of Software Development Life Cycle (SDLC) 
+?Analyzed the Business Requirements Document, created the test plan and prepared detailed 
+test cases for new Functionality 
+?Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the customer 
+requirements and acceptable quality assurance standards 
+?Participated in the meetings, prepared reports and other supportive documentation to 
+contribute to establishment of standards and procedures for software testing 
+?Developed Manual test scripts for different test scenarios covering all aspects of project 
+functionality using Test Link, and MANTIS Defect Management 
+?Created and executed manual test cases using Test Link and reviewed test cases developed 
+by other testers 
+?Involved in performing GUI, Functional, System and Regression Testing 
+?Performed Root Cause Analysis for all the assigned issues for existing functionality such as 
+(Corrupted Data, Code Error)  
+?Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+?Created and updated test scenarios, test plans, and test cases according to use case and 
+design 
+?Participated in system walkthrough and inspection meetings to understand the business 
+rules and system operation flows 
+?Executed test cases using both manual processes and automated test tools 
+?Wrote SQL Query to extract data from various database tables for testing purpose 
+?Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+?Identified and documented defects using MANTIS to ensure applications functionality 
+?Created test plan, designed and executed test cases manually and verified actual results 
+against expected results 
+?Identified and tracked defects, generated bug reports and submitted test report 
+?Assisted client implement User Acceptance Test (UAT) including creating Test Plan, 
+generating test data, designing test cases, preparing test environment and executing test 
+? Worked closely with users and program developers to ensure application development 
+meets with the user expectations 
+ 
+Project#13 
+Project Title: myMobileTV Web Client 
+Client                                    :     Samsung OEM 
+Duration                               :    Mar 1st. 2013 – April 2nd 2013 
+Project Details:  
+My Mobile TV application for Samsung Dongle. It is a web application in which it provides 
+entertainment to the Desktop users by providing live channels, VODs, Special Events, Movies. 
+MyMobileTV support 2G, 3G. I worked in BSS (CRM, Billing, Product catalogue) and in 
+OSS (Service Assurance, Activations). We designed the Web client for Samsung Dongle. It 
+supports all browsers like IE/Fire Fox/Google Chrome/Safari etc. User can watch the contents of 
+the myMobileTV by subscribing Daily/Weekly/Monthly Packages through any network.  
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality 
+such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? In the regression phase, the project was automated using Selenium. I was 
+responsible for developing a dynamic framework which could automate all the test 
+cases. 
+? Hybrid framework with Selenium was developed and generic keywords were 
+implemented. 
+? Generating Test Results Reports using TestNG and ANT. 
+? Executing Test Cases by using Selenium Grid. 
+? Used ANT to build and run the Selenium automation framework. Once the script 
+got over, framework used to send the automation reports over email 
+? Certain portion of the project involved Flex designs. Flex application testing was 
+also carried out using Selenium. 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using both manual processes and automated test tools 
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations. 
+ 
+Project#14 
+Project Title: mimobiTv for Symbian App 
+Client                                          :   BSNL 
+Platform                                      :   Symbian Belly  
+Duration                                      :   Jan 16. 2013 – Feb 25 2013 
+Role                                             :    Senior Test Engineer 
+Project Details:  
+Mimobi TV for Symbian Belly mobiles is a mobile application in which it provides 
+entertainment to the mobile users by providing live channels, VODs, Special Events, Movies. 
+MimobiTV mobile TV support 2G, 3G. I worked in BSS (CRM, Billing, Product catalogue) 
+and in OSS (Service Assurance, Activations). We designed the Wap for mimobi TVI order to 
+support lower end devices. User can watch the contents of the mimobi TV by subscribing 
+Daily/Weekly/Monthly Packages. User can download application by sending sms: To Enjoy 
+Mimi TV Send SMS My3gTv to 55447. 
+ 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality 
+such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using both manual processes and automated test tools 
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations 
+ 
+Project#15 
+Project Title: mymobile TV for Samsung OEM 
+Client                                        :     Samsung OEM App 
+Operators                             :   BSNL/Idea/Airtel/Vodafone/Tata DoCoMo 
+Platform                                    :   Android 
+Duration                                    :   Nov 2013– Jan 2013 
+Role                                           :   Senior Test Engineer 
+Project Details:  
+MymobileTV for all Operators is a mobile application in which it provides entertainment to the 
+mobile users by providing live channels, VODs, Special Events, Movies. Mymobile TV support 
+2G, 3G.I worked in BSS (CRM, Billing, Product catalogue) and in OSS (Service Assurance, 
+Activations). We designed the Wap for mymobile TV I order to support lower end devices. 
+User can watch the contents of the mymobile TV by subscribing Daily/Weekly/Monthly 
+Packages. This Application is available in Samsung App Store where user can download the app. 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality 
+such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using both manual processes and automated test tools 
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations 
+ 
+Project#16 
+Project Title: Idea mobile TV for Symbian Belly Client 
+Client                                           :   Idea mobile TV App 
+Duration                                      :   Dec 2012 - Jan 2013 
+Project Details:  
+IdeaTV mobile TV for Symbian Belly mobiles is a mobile application in which it provides 
+entertainment to the mobile users by providing live channels, VODs, Special Events, Movies. 
+IdeaTV mobile TV support 2G, 3G. I worked in BSS (CRM, Billing, Product catalogue) and 
+in OSS (Service Assurance, Activations). We designed the Wap for IdeaTV mobile TV I order 
+to support lower end devices. User can watch the contents of the IdeaTV mobile TV by 
+subscribing Daily/Weekly/Monthly Packages. User can download application by sending sms: 
+ideatv to 55456 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Analyzed the Business Requirements Document, created the test plan and prepared 
+detailed test cases for new Functionality 
+? Used Agile methodology (Scrum, Bug Scrub) to ensure the new features meet the 
+customer requirements and acceptable quality assurance standards 
+? Participated in the meetings, prepared reports and other supportive documentation 
+to contribute to establishment of standards and procedures for software testing 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Created and executed manual test cases using Test Link and reviewed test cases 
+developed by other testers 
+? Involved in performing GUI, Functional, System and Regression Testing 
+? Performed Root Cause Analysis for all the assigned issues for existing functionality 
+such as (Corrupted Data, Code Error)  
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Executed test cases using both manual processes and automated test tools 
+? Wrote SQL Query to extract data from various database tables for testing purpose 
+? Validated tests by crosschecking data in backend on SQL server using SQL Queries 
+? Identified and documented defects using MANTIS to ensure applications 
+functionality 
+? Created test plan, designed and executed test cases manually and verified actual 
+results against expected results 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Assisted client implement User Acceptance Test (UAT) including creating Test 
+Plan, generating test data, designing test cases, preparing test environment and 
+executing test 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations 
+ 
+Project#17 
+Project Title: Idea Mobile TV App 
+Client                                    :   Idea 
+Platform                                :   Android, SymbianNT, Symbian T, I Phone IOS 
+Duration                                     :    Nov 2012 - Dec 2013 
+Project Details                            :   Idea Mobile TV 
+Ideatv mobile TV is a mobile application in which it provides entertainment to the mobile users 
+by providing live channels, VODs, Special Events, Movies. IdeaTV mobile TV support 2G, 3G 
+and Wi-Fi Networks. I worked in BSS (CRM, Billing, Product catalogue) and in OSS 
+(Service Assurance, Activations). We designed the Wap for IdeaTV mobile TV I order to 
+support lower end devices. User can watch the contents of the IdeaTV mobile TV by subscribing 
+Daily/Weekly/Monthly Packages. User can download application by sending sms: ideatv to 
+55456 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations. 
+Project#18 
+Project Title  :  Airtel mobile TV 
+Client                    :         Airtel 
+Platform               :         Android/Symbian/Black Berry 
+Duration  :         Oct 10 2012 to Nov 6th 2012 
+ 
+Description: 
+Airtel mobile TV is a mobile application in which it provides entertainment to the mobile 
+users by providing live channels, VOD’s, Special Events, and Movies. Airtel mobile TV 
+support 2G, 3G and Wi-Fi Networks. I worked in BSS (CRM, Billing, Product catalogue) 
+and in OSS (Service Assurance, Activations).We designed the Wap for Airtel mobile TV I 
+order to support lower end devices. User can watch the contents of the Airtel mobile TV by 
+subscribing Daily/Weekly/Monthly Packages. User can download application by sending 
+Message TV to 54321. 
+Role Description: 
+? Experienced in defining Testing Methodologies, Designing Test Plans and Test 
+Cases, Verifying and Validating pharmaceutical Web based applications and 
+Documentation based on standards for Software Development and effective QA 
+implementation in all phases of Software Development Life Cycle (SDLC) 
+? Developed Manual test scripts for different test scenarios covering all aspects of 
+project functionality using Test Link, and MANTIS Defect Management 
+? Executed the test cases, recorded the results and documented defects, questionable 
+functions, as well as inconsistencies in software program functions, outputs, online 
+screens and content 
+? Created and updated test scenarios, test plans, and test cases according to use case 
+and design 
+? Participated in system walkthrough and inspection meetings to understand the 
+business rules and system operation flows 
+? Identified and tracked defects, generated bug reports and submitted test report 
+? Worked closely with users and program developers to ensure application 
+development meets with the user expectations. 
+Project #19 
+ Project Title : Enhancements’ Requests 
+ Client                 :          American Airlines 
+ Model                  :          Agile Model 
+ Duration             : August 2011 to OCT 2012 
+Automation Tool :            QTP 9.0 
+Description:  
+American Airlines, Inc. (AA) is a major airline of the United States. It is the world's largest 
+airline in passenger miles transported and passenger fleet size; third largest, behind FedEx 
+Express and Delta Air Lines, in aircraft operated; and second behind Air France-KLM in 
+operating revenues 
+ER-Enhancement Request project goal is to complete/implement the ERs on AA.com from 
+different business units. Enhancement Requests are “mini” projects that address a small portion 
+of the functionality of the aa.com website.  They are bigger than an app support ticket, but 
+smaller than a project. 
+Working as Test Engineer and primary responsibilities were: 
+? Agile process. 
+? Web based testing. 
+? Regression, Functional and Platform testing. DB verification, Web services using SOAP 
+UI. 
+? Understanding and analyzing the impact of enhancements. 
+? Test Case preparation, Test case modification according to the enhancements, Test 
+execution. 
+? Offshore-Onsite Communication. 
+? QC for Test Management, Rally for Agile project management. 
+? Maintaining the Test Scripts 
+? Writing Test Scripts 
+? Reporting  bugs through Bugzilla 
+? Able to understand the Frame work 
+? Strong SQL to involve in DB Testing during Functional Testing. 
+? Used Automation for regression cycles like QTP for functional testing. 
+ 
+Project #20 
+ Project Title  :     Customer Relationship Management 
+Client  :  Aware IM Pyt ltd, Germany 
+Model                    :   V Model 
+Duration               :   May 2010-April 2011 
+      Role  : Jr.Software Tester 
+ 
+Description:  
+Customer Relationship Management (CRM) is an application that allows staff members of an  
+Organization to register customer details and communication history. The application:  
+•    Automatically registers incoming e-mails.  
+•    Allows staff members to send outgoing e-mails.  
+•    Keeps track of discussion threads.  
+•    Allows staff members to register reminder alerts.  
+•    Automatically creates alerts if a reply was not received or made by a specified date.  
+•    Automatically sends reminder e-mails to staff members to review alerts depending on the  
+Alert importance. You can use it as a base for configuring your own customer management 
+application, or as a practical example for learning Aware IM. You can create a new business 
+space and import the application configuration from file CRM.bsv and run the application. 
+Responsibilities: 
+? Understanding and reviewing requirements specification. 
+? Identified test scenarios and designed test cases. 
+? Executed the test cases and tracked the defects. 
+? Created the libraries for reusable operations. 
+? Involved in Creating Build for Application 
+ 
+Project # 21 
+Client/Location  :    O2 
+Project Name     :    BSCS 
+Period                 : August 2009-March 2010 
+Domain  : Telecom  
+Description:  
+O2 is a leading provider of mobile and broadband services to consumers and businesses in the 
+UK. This application provides easy access to agents of the company to fetch the information of 
+any existing or non-existing consumers. I worked in BSS (CRM, Billing, Product catalogue) 
+and in OSS (Service Assurance, Activations). This project consists of two different 
+applications namely Interactive Care, Citrix. Interactive care is the application used by all the 
+agents of the company as a communicator/interface between the departments and citrix provides 
+the billing information. 
+Contribution: 
+? Understanding and Analyzing of Business Requirement Specifications, Functional 
+Requirement Specifications and other documents. 
+? Involved in Designing of Test cases.  
+? Involved in Reviewing and Executing of the Test Cases. 
+? Involved in Test Data preparation and Execution of Test Scripts in Quality Centre. 
+? Involved in regression testing that includes both manual and automation testing activities. 
+? Security Testing 
+? Ad-hoc Testing 
+ 
+ 
+Thanks & Regards 
+Janardhan 
