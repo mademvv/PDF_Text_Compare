@@ -12,8 +12,12 @@ import org.apache.poi.xwpf.converter.pdf.PdfConverter;
 import org.apache.poi.xwpf.converter.pdf.PdfOptions;
 import org.apache.poi.xwpf.usermodel.XWPFDocument;
 
-public class DocxToPdf {
+import com.lowagie.text.pdf.PdfWriter;
 
+import fr.opensagres.xdocreport.itext.extension.IPdfWriterConfiguration;
+
+public class DocxToPdf {
+	public static  PdfOptions options  ;
 	//public static void main(String[] args) {
 		public static void Doc_To_PDF() {
 		 long startTime = System.currentTimeMillis();
@@ -21,14 +25,24 @@ public class DocxToPdf {
 		    try
 		    {
 		        // 1) Load docx with POI XWPFDocument
-		        XWPFDocument document = new XWPFDocument( new FileInputStream (new File ( System.getProperty("user.dir")+"\\data\\source.docx" ))); 
+		        XWPFDocument document = new XWPFDocument( new FileInputStream (new File ( System.getProperty("user.dir")+"\\data\\source_files\\source.docx" ))); 
 		        // 2) Convert POI XWPFDocument 2 PDF with iText
-		        File outFile = new File(  System.getProperty("user.dir")+"\\data\\source.pdf" );
+		        File outFile = new File(  System.getProperty("user.dir")+"\\data\\source_files\\source.pdf" );
 		        outFile.getParentFile().mkdirs();
 
 		        OutputStream out = new FileOutputStream( outFile );
 		        //PdfOptions options = null;// 
-		        PdfOptions options = PdfOptions.create().fontEncoding( "windows-1250" );
+		        PdfOptions options = PdfOptions.create().fontEncoding( "windows-1252" );
+		       // PdfOptions options = PdfOptions.getDefault();
+		       
+		          //  options.setConfiguration( new IPdfWriterConfiguration()
+		        /*{
+		                    
+		          public void configure( PdfWriter writer )
+		          {
+		            writer.setPDFXConformance( PdfWriter.PDFA1A  );
+		          }
+		        });*/
 		        PdfConverter.getInstance().convert( document, out, options );
 		    }
 		    catch ( Throwable e )

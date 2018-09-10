@@ -2,12 +2,13 @@ package gift;
 
 import java.io.*;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.pdfbox.pdmodel.*;
 import org.apache.pdfbox.text.PDFTextStripper;
 import org.apache.pdfbox.util.*;
 
 public class ReadPDF {
-
+public static String sourceline;
 // public static void main(String[] args){
 	public static void read_pdf(String PDFFILE, String textfile){
  PDDocument pd;
@@ -34,6 +35,16 @@ public class ReadPDF {
          }
         // I use close() to flush the stream.
         wr.close();
+        
+       /* try(BufferedReader br = new BufferedReader(new FileReader(textfile))) {
+		    for( ; (sourceline = br.readLine()) != null; ) {
+		        // process the line.
+		    	sourceline+="\n"+sourceline.replaceAll("\\s+"," ");;
+		    	//sourcestring=sourceline;
+		    }
+        }
+        //sourceline.replaceAll("\\s+"," ");
+        FileUtils.writeStringToFile(new File(textfile), sourceline);*/
  } catch (Exception e){
          e.printStackTrace();
         } 

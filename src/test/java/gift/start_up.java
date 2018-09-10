@@ -6,12 +6,10 @@ public class start_up {
 
 	public static void main(String args[]) throws Throwable{
 		
-		//DocxToPdf.Doc_To_PDF();
+		DocxToPdf.Doc_To_PDF();
 		
-		//ReadPDF.read_pdf(System.getProperty("user.dir")+"\\data\\source.pdf" , System.getProperty("user.dir")+"\\data\\source.txt" );
-		//ReadPDF.read_pdf(System.getProperty("user.dir")+"\\data\\Destination.pdf" , System.getProperty("user.dir")+"\\data\\destination.txt" );
-		verify_string.verify(System.getProperty("user.dir")+"\\data\\source.txt", System.getProperty("user.dir")+"\\data\\destination.txt");
-	//verify.vf(System.getProperty("user.dir")+"\\data\\source.txt", System.getProperty("user.dir")+"\\data\\destination.txt");
-	
+		ReadPDF.read_pdf(System.getProperty("user.dir")+"\\data\\source_files\\source.pdf" , System.getProperty("user.dir")+"\\data\\source_files\\source.txt" );
+		ReadPDF.read_pdf(System.getProperty("user.dir")+"\\data\\destination_files\\Destination.pdf" , System.getProperty("user.dir")+"\\data\\destination_files\\destination.txt" );
+		trail.verify(System.getProperty("user.dir")+"\\data\\source_files\\source.txt", System.getProperty("user.dir")+"\\data\\destination_files\\destination.txt");
 	}
 }
